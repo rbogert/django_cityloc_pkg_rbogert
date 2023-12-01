@@ -7,7 +7,7 @@ Welcome to Nucamp's documentation!
 ==================================
 
 .. automodule:: Nucamp
-   :members: rbogert
+   :rbogert: 
 
 
 
